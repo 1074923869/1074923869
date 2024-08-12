@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wangxingting.
 - 👀 I’m interested in Solidity,python
-- 🌱 I’m currently learning Internet Security
+- 🌱 I’m currently learning Internet Security and do my best to become a blockchain dev.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  1074923869@qq.com
 - 😄 Pronouns: ...
